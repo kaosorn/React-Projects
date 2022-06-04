@@ -1,5 +1,5 @@
 # T Shirt Store
-* -Built with: React/js, MongoDB *
+**-Built with: React/js, MongoDB**
 
 A project I started to learn more about react and how to use it with mongoDB. I was going to use bootstrap or tailwindcss, but figured I should keep it basic css, so I used styled components. 
 
